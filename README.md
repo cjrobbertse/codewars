@@ -1,2 +1,3 @@
 # codewars
- This Repo will contain codewars challenges https://www.codewars.com/users/CJRobbertse
+
+This Repo will contain codewars katas https://www.codewars.com/users/CJRobbertse
